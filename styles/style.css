@@ -675,6 +675,9 @@ body {
   .education__box {
     flex-direction: column;
   }
+  .resume__skills-img {
+    width: 100%;
+  }
 
   .experience__box-info,
   .education__box-info {
