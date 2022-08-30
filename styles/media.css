@@ -114,14 +114,12 @@
     margin-bottom: 20px;
   }
   .experience__box,
-  .education__box {
+  .education__box,
+  .footer__contacts {
     flex-direction: column;
   }
   .resume__skills-img {
     width: 100%;
-  }
-  .footer__contacts {
-    flex-direction: column;
   }
 }
 
