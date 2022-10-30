@@ -146,4 +146,6 @@
   .about__info-buttons {
     margin-bottom: 20px;
   }
+  .up-btn {
+    display: none;
 }
